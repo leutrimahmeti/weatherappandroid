@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="wind">🌫️</string>
+    <string name="water">💧</string>
+    <string name="low_temp">Low</string>
+    <string name="high_temp">High</string>
+    <string name="degree">°C</string>
+    <string name="tmpimg">Image</string>
+    <string name="today_string">Today</string>
+    <string name="c">Temp</string>
+    <string name="todo">TODO</string>
+    <string-array name="cities">
+        <item>New York</item>
+        <item>Berlin</item>
+    </string-array>
+
+</resources>
